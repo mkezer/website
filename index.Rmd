@@ -1,0 +1,44 @@
+---
+title: "Murat Kezer"
+image: "images/IMG_0206.png"
+links:
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "https://www.linkedin.com/in/murat-kezer-33528780/"
+  - label: '`r fontawesome::fa("github", height = "25px")`'
+    url: "https://github.com/mkezer"
+  - label: '`r fontawesome::fa("link", height = "25px")`'
+    url: "https://scholar.google.com/citations?user=AwitZwkAAAAJ&hl=en&oi=ao"    
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
+    url: "mailto:kezermurat@gmail.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## About
+
+I am a doctoral researcher at the University of Oregon, studying empathy, interpersonal perception, and social media. With a strong passion for data science, I integrate machine learning and NLP models into my projects. I enjoy teaching statistics and bringing interdisciplinary approaches to both my research and the classroom.
+
+## Education
+
+**University of Oregon** | Eugene, OR
+
+Ph.D. in Psychology | September 2019 - June 2025
+
+**Koc University** | Istanbul, Turkey
+
+M.A. in Psychology | September 2015 - June 2018
+
+**Bogazici University** | Istanbul, Turkey
+
+B.A. in Guidance and Psychological Counseling | September 2010 - June 2015
+
+## Experience
+
+**University of Oregon** | Graduate Employee | September 2019 - Present
+
+**Koc University** | Research and Teaching Assistant | September 2015 - September 2019

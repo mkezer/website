@@ -1,0 +1,14 @@
+name: "website"
+title: "Murat Kezer"
+description: |
+  Murat Kezer
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: about.html
+    - icon: fab fa-github
+      href: https://github.com/mkezer
+output: distill::distill_article
