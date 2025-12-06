@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## About
 
-I am a doctoral researcher at the University of Oregon, studying empathy, interpersonal perception, and social media. With a strong passion for data science, I integrate machine learning and NLP models into my projects. I enjoy teaching statistics and bringing interdisciplinary approaches to both my research and the classroom.
+I am a doctoral researcher at the University of Oregon. I study how people perceive, infer, and judge one another and how these reciprocal processes shape relationships, decisions, and social outcomes. Specifically, my research involves situations when people infer others’ mental states and traits accurately, when they engage in empathic processes, and how these inferences and processes influence moral evaluations, intergroup relations, and social outcomes across in-person, video-mediated, and online settings. To this end, I use social cognitive, affective, behavioral, and linguistic data and apply multilevel models, polynomial regression with response surface analysis, and natural language processing methods.  
 
 ## Education
 
